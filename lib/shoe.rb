@@ -8,7 +8,7 @@ class Shoe
   end
   
   def cobble
-    if @condition == old 
+    if @condition == "old" 
       @condition = "repaired"
       end
     
