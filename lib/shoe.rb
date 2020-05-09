@@ -9,7 +9,7 @@ class Shoe
   
   def cobble
 
-      self.condition = "repaired"
+      self.condition = "new"
    #   @condition = "repaired"
       puts "Your shoe is as good as new!"
     
