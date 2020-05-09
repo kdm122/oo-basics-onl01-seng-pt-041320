@@ -7,4 +7,11 @@ class Shoe
     @brand = brand
   end
   
+  def cobble
+    if @condition == old 
+      @condition = "repaired"
+      end
+    
+  end
+  
 end
