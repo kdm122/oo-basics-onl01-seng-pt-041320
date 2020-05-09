@@ -8,11 +8,10 @@ class Shoe
   end
   
   def cobble
-    if self.condition == "old" 
+
       self.conditinon = "repaired"
    #   @condition = "repaired"
       puts "Your shoe is as good as new!"
-      end
     
   end
   
